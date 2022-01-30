@@ -1,0 +1,17 @@
+th {
+    background-color: black;
+    width: 75px;
+    height: 75px;
+}
+
+td {
+    background-color: whitesmoke ;
+    width: 75px;
+    height: 75px;
+}
+
+.oldal {
+    height: 635px;
+    width: 635px;
+    border: solid black;
+}
